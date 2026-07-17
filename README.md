@@ -111,6 +111,8 @@ Current focus:
 
 ## Author
 
-LUMORA IQ
+Developed by **Sonia Francella Rojas Castillo**
+
+Founder & Software Developer of LUMORA IQ
 
 AI-Powered Decision Intelligence Platform
