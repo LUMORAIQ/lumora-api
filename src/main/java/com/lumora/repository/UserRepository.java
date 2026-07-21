@@ -1,0 +1,10 @@
+package com.lumora.repository;
+
+import com.lumora.entity.User;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import java.util.UUID;
+
+public interface UserRepository extends JpaRepository<User, UUID> {
+
+}
